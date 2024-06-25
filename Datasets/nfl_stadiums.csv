@@ -24,7 +24,7 @@ Dignity Health Sports Park,"Carson, CA",2019,,outdoor,"18400 S Avalon Blvd, Cars
 Dolphin Stadium,"Miami, FL",,,,,,warm,,,,,25.7905,-80.3163,,8.8
 Edward Jones Dome,"St. Louis, MO",1995,,indoor,"901 N Broadway, St. Louis, MO 63101",63101,indoor,,,,,38.632778,-90.188611,15,
 Empower Field at Mile High,"Denver, CO",2001,,outdoor,"1701 Bryant St, Denver, CO 80204",80204,cold,"76,125",Grass,USW00023062,"DENVER STAPLETON, CO US",39.743889,-105.02,0,1611.2
-Estadio Azteca,"Mexico City, Mexico",1966,,outdoor,"Calz. de Tlalpan 3465, Sta. ê_rsula Coapa, Coyoac_†çn, 04650 Ciudad de MÅ_xico, D.F., Mexico","Mexico City, MX",warm,,,,,19.302911,-99.150442,5.9,
+Estadio Azteca,"Mexico City, Mexico",1966,,outdoor,"Calz. de Tlalpan 3465, Sta. ÔøΩ_rsula Coapa, Coyoac_ÔøΩÔøΩn, 04650 Ciudad de MÔøΩ_xico, D.F., Mexico","Mexico City, MX",warm,,,,,19.302911,-99.150442,5.9,
 EverBank Field,"Jacksonville, FL",1995,,outdoor,"1 Everbank Field Dr, Jacksonville, FL 32202",32202,warm,"67,264",Grass,USW00093837,"JACKSONVILLE NAS, FL US",30.23333,-81.66667,,6.1
 FedEx Field,"Landover, MD",1997,2016,outdoor,"1600 Fedex Way, Hyattsville, MD 20785",20785,moderate,"79,000",Grass,USC00186350,"NATIONAL ARBORETUM DC, MD US",38.907778,-76.864444,295,15.2
 Fenway Park,"Boston, MA",,,,,,,,,,,,,,
@@ -119,5 +119,3 @@ Wembley Stadium,"London, UK",2007,,outdoor,"Wembley, London HA9 0WS, United King
 Wrigley Field,"Chicago, IL",1920,1970,outdoor,"1060 West Addison Street, Chicago, IL 60613",60613,cold,,,,,,,,
 Yale Bowl,"New Haven, CT",,,outdoor,"276 Derby Ave, West Haven, CT 06516",6516,cold,,Grass,,,,,,
 Yankee Stadium,"Bronx, NY",,,outdoor,,,cold,,,,,,,,
-,,,,,,,,,,,,,,,
-https://www.kaggle.com/datasets/tobycrabtree/nfl-scores-and-betting-data,,,,,,,,,,,,,,,
