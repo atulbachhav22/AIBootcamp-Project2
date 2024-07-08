@@ -14,8 +14,6 @@ __Stage__ 2 was created for predictive modeling.  This file mimics the merging a
 - [Installation](#installation)
   - [Prerequisites](#prerequisites)
   - [Install Libraries](#install-libraries)
-- [Usage](#usage)
-  - [Running Jupyter Notebook](#running-jupyter-notebook)
   
 
 ## Installation - A number of installations are needed to run the code necessary to complete this project 
@@ -55,9 +53,6 @@ pip install matplotlib scipy numpy
 
 - Run generation_prophet_compare_final.ipynb in a google colab workspace.  Upload the dfa-generation-levels-detail-cleanedup.csv found in the resources-jc folder when prompted.
 
-## Running Jupyter Notebook
-
-jupyter notebook
 
 ## Sources
 - [NFL Game Stats](https://www.kaggle.com/datasets/cviaxmiwnptr/nfl-team-stats-20022019-espn?select=nfl_team_stats_2002-2023.csv)
@@ -86,8 +81,6 @@ jupyter notebook
 - [Installation](#installation)
   - [Prerequisites](#prerequisites)
   - [Install Libraries](#install-libraries)
-- [Usage](#usage)
-  - [Running Jupyter Notebook](#running-jupyter-notebook)
   
 
 ## Installation - A number of installations are needed to run the code necessary to complete this project 
@@ -131,9 +124,6 @@ pip install matplotlib scipy numpy
 
 - Run generation_prophet_compare_final.ipynb in a google colab workspace.  Upload the dfa-generation-levels-detail-cleanedup.csv found in the resources-jc folder when prompted.
 
-## Running Jupyter Notebook
-
-jupyter notebook
 
 ## Sources
 - [NFL Game Stats](https://www.kaggle.com/datasets/cviaxmiwnptr/nfl-team-stats-20022019-espn?select=nfl_team_stats_2002-2023.csv)
