@@ -13,8 +13,6 @@ __Stage__ 2 was created for predictive modeling.  This file mimics the merging a
 
 - [Installation](#installation)
   - [Prerequisites](#prerequisites)
-  - [Install Python](#install-python)
-  - [Install Jupyter Notebook](#install-jupyter-notebook)
   - [Install Libraries](#install-libraries)
 - [Usage](#usage)
   - [Running Jupyter Notebook](#running-jupyter-notebook)
@@ -87,8 +85,6 @@ jupyter notebook
 
 - [Installation](#installation)
   - [Prerequisites](#prerequisites)
-  - [Install Python](#install-python)
-  - [Install Jupyter Notebook](#install-jupyter-notebook)
   - [Install Libraries](#install-libraries)
 - [Usage](#usage)
   - [Running Jupyter Notebook](#running-jupyter-notebook)
