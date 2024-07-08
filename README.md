@@ -39,19 +39,9 @@ pd.set_option('display.max_columns',None)
 
 - A computer running Windows, macOS, or Linux
 - Administrator privileges on the computer
+- Python installation
+- Jupyter installation
 
-### Install Python
-
-1. Download the latest version of Python from the official [Python website](https://www.python.org/downloads/).
-2. Run the installer and follow the instructions. Make sure to check the option to add Python to your PATH.
-
-To verify the installation, open a terminal or command prompt and run:
-
-python --version
-
-## Install Jupyter Notebook
-
-pip install notebook
 
 ## Install Libraries
 
@@ -127,19 +117,9 @@ pd.set_option('display.max_columns',None)
 
 - A computer running Windows, macOS, or Linux
 - Administrator privileges on the computer
+- Python installation
+- Jupyter installation
 
-### Install Python
-
-1. Download the latest version of Python from the official [Python website](https://www.python.org/downloads/).
-2. Run the installer and follow the instructions. Make sure to check the option to add Python to your PATH.
-
-To verify the installation, open a terminal or command prompt and run:
-
-python --version
-
-## Install Jupyter Notebook
-
-pip install notebook
 
 ## Install Libraries
 
