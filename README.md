@@ -130,4 +130,4 @@ pip install matplotlib scipy numpy
 - The variable contributing the most to the outcome were Rushing attempts, time of possession, and passing attempts
 - Given the extensive game details in the data set, there is definitely an X-factor in determining a win
 - When applying Week 1 2023 game details (known items before the game started) the model predicted the correct winner 53.8% of the time
-- 53.8% is less than the current prediction rate in Vegas which stands right around 65% accuracy
+- 57.1 is less than the current prediction rate in Vegas which stands right around 65% accuracy
