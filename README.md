@@ -8,13 +8,7 @@ __Stage__ 2 was created for predictive modeling.  This file mimics the merging a
 
 
 # Stage 1:  Data merging, Data Cleaning, and Data Classification
-
-## Table of Contents
-
-- [Installation](#installation)
-  - [Prerequisites](#prerequisites)
-  - [Install Libraries](#install-libraries)
-  
+ 
 
 ## Installation - A number of installations are needed to run the code necessary to complete this project 
 
@@ -76,12 +70,6 @@ pip install matplotlib scipy numpy
 
 # Stage 2:  Data merging, Data Cleaning, and Data Classification - Data only through 2022 to allow for prediction testing vs 2023 actuals
 
-## Table of Contents
-
-- [Installation](#installation)
-  - [Prerequisites](#prerequisites)
-  - [Install Libraries](#install-libraries)
-  
 
 ## Installation - A number of installations are needed to run the code necessary to complete this project 
 
