@@ -7,7 +7,7 @@ __Stage 1__ contains the data merging and clean up of our data sources for the f
 __Stage__ 2 was created for predictive modeling.  This file mimics the merging and clean-up from stage 1, but removes the data associated with 2023 to provide an area for the team to test our model.
 
 
-## Stage 1:  Data merging, Data Cleaning, and Data Classification
+# Stage 1:  Data merging, Data Cleaning, and Data Classification
 
 ## Table of Contents
 
@@ -74,7 +74,7 @@ pip install matplotlib scipy numpy
 - However, the r^2 value is only .398, meaning the two metrics have a moderate, but not strong relationship
 
 
-## Stage 2:  Data merging, Data Cleaning, and Data Classification - Data only through 2022 to allow for prediction testing vs 2023 actuals
+# Stage 2:  Data merging, Data Cleaning, and Data Classification - Data only through 2022 to allow for prediction testing vs 2023 actuals
 
 ## Table of Contents
 
@@ -141,3 +141,5 @@ pip install matplotlib scipy numpy
 - Random Forest had the best model result, with test score of 81.1%
 - The variable contributing the most to the outcome were Rushing attempts, time of possession, and passing attempts
 - Given the extensive game details in the data set, there is definitely an X-factor in determining a win
+- When applying Week 1 2023 game details (known items before the game started) the model predicted the correct winner 53.8% of the time
+- 53.8% is less than the current prediction rate in Vegas which stands right around 65% accuracy
